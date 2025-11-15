@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Some new projects and i am opened to work.
 - 📫 How to reach me ... I have linkedIn link in my bio.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... i know some languages like, HTML,CSS,C++ Basics, MS OFFICE, Expertise on Ms PowerPoint and Ms Word
+- ⚡ Fun fact: ... i know some languages like, HTML,CSS,C++ Basics, SQL, MySQL Server Management, MS OFFICE, Expertise on Ms PowerPoint and Ms Word
 
 <!---
 Ahmad-Ali-Soomro/Ahmad-Ali-Soomro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
